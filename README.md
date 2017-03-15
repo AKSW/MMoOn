@@ -1,3 +1,5 @@
+## NOTE: This repository is a fork representing the previous work of the MMoOn project. Please find the current contributions at [MMoOn-Project organization](https://github.com/MMoOn-Project). This repository is preserved to ensure intact links included in [Creating Linked Data Morphological Language Resources with MMoOn - The Hebrew Morpheme Inventory](http://svn.aksw.org/papers/2016/LREC_MMoOnHebrew/public.pdf).
+
 # MMoOn – Multilingual Morpheme Ontology
 
 In the last years a rapid emergence of lexical resources evolved in the Semantic Web.
